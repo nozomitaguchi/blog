@@ -1,4 +1,4 @@
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: jekyll-theme-persephone
 plugins:
   - jekyll-remote-theme
 syntax_highlighter_style: colorful
