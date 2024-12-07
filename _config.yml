@@ -1,3 +1,5 @@
 remote_theme: pages-themes/dinky@v0.2.0
 plugins:
   - jekyll-remote-theme
+title: [お腹の上のパソコンより]
+description: [妻と娘と息子が一人ずついる男性によるブログ]
