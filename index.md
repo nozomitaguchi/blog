@@ -2,4 +2,4 @@
 - [引越しと転職](./2022/summary)
 
 # 2023年
-- [](/2023/impressive_memories)
+- [娘の保育園の連絡帳で振り返る2023年](/2023/impressive_memories)
