@@ -1,6 +1,7 @@
 remote_theme: sighingnow/jekyll-gitbook
 plugins:
   - jekyll-remote-theme
+syntax_highlighter_style: colorful
 toc:
   enabled: true
   h_min: 1
