@@ -1,5 +1,16 @@
-remote_theme: pages-themes/dinky@v0.2.0
+remote_theme: sighingnow/jekyll-gitbook
 plugins:
   - jekyll-remote-theme
-title: [お腹の上のパソコンより]
-description: [妻と娘と息子が一人ずついる男性によるブログ]
+toc:
+  enabled: true
+  h_min: 1
+  h_max: 3
+collections:
+  pages:
+    output: true
+    sort_by: date
+    permalink: /:collection/:year-:month-:day-:title:output_ext
+  others:
+    output: true
+    sort_by: date
+    permalink: /:collection/:year-:month-:day-:title:output_ext
