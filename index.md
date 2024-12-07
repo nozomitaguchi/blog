@@ -1,16 +1,16 @@
 ## お腹の上のパソコンより
 
 ### 2022/12/22
-[引越しと転職](2022/summary) #ライフログ
+#ライフログ [引越しと転職](2022/summary)
 
 ### 2023/02/05
-[うかる！ 証券外務員二種 最速問題集](2023/securities-sales-representative) #読書ログ
+#読書ログ [うかる！ 証券外務員二種 最速問題集](2023/securities-sales-representative)
 
 ### 2023/07/04
-[Scala With Cats について](2023/scala-with-cats) #技術ログ
+#技術ログ [Scala With Cats について](2023/scala-with-cats)
 
 ### 2023/12/07
-[娘の保育園の連絡帳で振り返る2023年](2023/impressive_memories) #ライフログ
+#ライフログ [娘の保育園の連絡帳で振り返る2023年](2023/impressive_memories)
 
 ### 2024/12/02
-[今回の北海道旅行に至る縁](2024/hokkaido) #ライフログ
+#ライフログ [今回の北海道旅行に至る縁](2024/hokkaido)
